@@ -1,0 +1,9 @@
+(deffun emre () ( ((+ 3f3 3f3) (+ 3f3 3f3)))
+(emre 3f3)
+(if (equal 3f2 6f4) ((* 3f1 6f1)) ((- 3f1 6f3)))
+(while (gt 3f3 3f2) ((* 3f1 6f1)))
+(set emre 3f1)
+(+ emre 3f3)
+(set tuba (- emre 7f1))
+(+ tuba 2f1)
+sadggasd
